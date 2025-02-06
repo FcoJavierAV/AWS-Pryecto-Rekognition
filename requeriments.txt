@@ -1,0 +1,7 @@
+openai
+flask
+boto3
+Flask
+python-dotenv
+opencv-python
+numpy
